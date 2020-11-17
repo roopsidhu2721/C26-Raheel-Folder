@@ -1,3 +1,5 @@
+//This is my parent class
+
 class BaseClass{
     constructor(x, y, width, height, angle) {
         var options = {
